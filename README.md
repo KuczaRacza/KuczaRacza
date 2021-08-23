@@ -9,7 +9,7 @@ Favorite subjects
 + Data compresion
 + Image formats
 + Parsers
-+Procedural generation
++ Procedural generation
 
 **I hate python**
 

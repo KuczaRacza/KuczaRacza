@@ -3,7 +3,7 @@
 
 
 # Hello There
-I'm young programmer. This is  my private account, where  you can find  some of my project made for fun.
+I'm young programmer. This is  my private account, where  you can find  some of my projects made for fun.
 My favorite languages  
 + C++
 + JavaScript
@@ -15,7 +15,7 @@ Favorite subjects
 + Parsers
 + Procedural generation
 
-**I hate python**
+**I hate python**🚫🐍
 
 
  My repos 
@@ -25,5 +25,7 @@ Favorite subjects
 |kuczracza_image |C  |Lossy image formart. |
 |kurde-pp-bot |JavaScript |Website and discord bot that is making homework managing easy.  |
 |CPPFCAF |C++ | COMES  archive format dekoder(CEF) |
+
+I'm open to collab  propositions.😉
 
 

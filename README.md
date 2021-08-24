@@ -24,7 +24,7 @@ Favorite subjects
 |connect-4 |C++ |Classic game. Made  to  refresh my c++ knowledge |
 |kuczracza_image |C  |Lossy image formart. |
 |kurde-pp-bot |JavaScript |Website and discord bot that is making homework managing easy.  |
-|CPPFCAF |C++ | COMES  archive format dekoder(CEF) |
+|CPPFCAF |C++ | COMES  archive format dekoder(CAF) |
 
 I'm open to collab  propositions.😉
 

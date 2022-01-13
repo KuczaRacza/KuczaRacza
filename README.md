@@ -8,6 +8,8 @@ My favorite languages
 + C++
 + JavaScript
 + C
+## My new repeo probably will show on gitlab
+[My Gitlab profile](https://gitlab.com/KuczaRacza)
 
 Favorite subjects
 + Data compression
@@ -22,7 +24,7 @@ Favorite subjects
  |Name |lang |description |
 | --- | --- | --- | 
 |connect-4 |C++ |Classic game. Made  to  refresh my c++ knowledge |
-|kuczracza_image |C  |Lossy image format. |
+|kuczracza_image |C  |Lossy image format.(dropped) new encoder is on gitlab |
 |kurde-pp-bot |JavaScript |Website and discord bot that is making homework managing easy.  |
 |CPPFCAF |C++ | COMES  archive format dekoder(CAF) |
 

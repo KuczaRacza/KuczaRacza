@@ -8,7 +8,7 @@ My favorite languages
 + C++
 + JavaScript
 + C
-## My new repeo probably will show on gitlab
+## My new pojects probably will show on gitlab
 [My Gitlab profile](https://gitlab.com/KuczaRacza)
 
 Favorite subjects
